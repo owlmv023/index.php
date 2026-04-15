@@ -1,2 +1,2 @@
-# index.php
-ini adalah index baru saya
+# belajar-git2
+ini adalah repositori pertama saya
